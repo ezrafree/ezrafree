@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ezrafree/ezrafree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ezra Free, an experienced web developer with a passion for learning and sharing knowledge.
 
-Here are some ideas to get you started:
+🚧 I’m currently working in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Material-UI
+
+💡 I also have experience working in:
+
+- Vue
+- GraphQL
+- Elixir
+
+⚡ Check out my website to learn more:
+
+- https://www.ezrafree.com
