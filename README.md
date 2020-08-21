@@ -5,6 +5,7 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 🚧 I’m currently working in:
 
 - React
+- React Native
 - TypeScript
 - Material-UI
 
