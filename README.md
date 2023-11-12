@@ -7,13 +7,14 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 - React
 - React Native
 - TypeScript
-- Material-UI
 
 💡 I also have experience working in:
 
 - Vue
 - GraphQL
+- Apollo
 - Elixir
+- Bash
 
 ⚡ Check out my website to learn more:
 
