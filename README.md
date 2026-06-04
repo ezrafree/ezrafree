@@ -15,6 +15,7 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 - Apollo
 - Elixir
 
-⚡ Check out my website to learn more:
+⚡ Check out my websites to learn more:
 
-- https://www.ezrafree.com
+- https://ezrafree.com
+- https://quietmindcreative.com
