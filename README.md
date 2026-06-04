@@ -4,17 +4,16 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 
 🚧 I’m currently working in:
 
-- React
-- React Native
-- TypeScript
+- iOS / Swift
+- React / TypeScript
 
 💡 I also have experience working in:
 
+- Node
 - Vue
 - GraphQL
 - Apollo
 - Elixir
-- Bash
 
 ⚡ Check out my website to learn more:
 
