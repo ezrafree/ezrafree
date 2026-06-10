@@ -4,6 +4,8 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 
 🚧 I’m currently working in:
 
+- Auth0 / Okta
+- AWS / CDK
 - iOS / Swift
 - React / TypeScript
 
