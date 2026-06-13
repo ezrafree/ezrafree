@@ -7,7 +7,9 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 - Auth0 / Okta
 - AWS / CDK
 - iOS / Swift
-- React / TypeScript
+- React / TypeScript / JavaScript
+- Browser extensions
+- VS Code extensions
 
 💡 I also have experience working in:
 
