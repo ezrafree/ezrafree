@@ -21,5 +21,5 @@ I'm Ezra Free, an experienced web developer with a passion for learning and shar
 
 ⚡ Check out my websites to learn more:
 
-- https://ezrafree.com
-- https://quietmindcreative.com
+- https://quietmindcreative.com/portfolio
+- Personal Blog: https://ezrafree.com
